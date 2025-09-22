@@ -1,4 +1,2 @@
 # php
-<?php
-echo "tes";
-?>
+<a href="index.php">a</a>
